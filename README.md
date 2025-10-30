@@ -13,6 +13,7 @@ Explore existing research and tools for object detection.
 Set up GitHub repository and environment.
 
 Tasks Completed:
+
 On Monday	Title Finalization	Selected project title: Helmet Detection using Deep Learning (Automotive Theme)
 
 On Tuesday	Literature Review	Studied about YOLOv5 and YOLOv8 architectures for object detection.
