@@ -14,15 +14,15 @@ Set up GitHub repository and environment.
 
 Tasks Completed:
 
-On Monday	Title Finalization	Selected project title: Helmet Detection using Deep Learning (Automotive Theme)
+On Monday	Title Finalization	Selected project title: Helmet Detection using yolo (Automotive Theme)
 
-On Tuesday	Literature Review	Studied about YOLOv5 and YOLOv8 architectures for object detection.
+On Tuesday	Friday	GitHub Setup	Created and initialized GitHub repository
 
 On Wednesday	Problem Definition	Defined scope: Detect riders and identify helmet usage for road safety.
 
 On Thursday	Tool Selection	Finalized Python, YOLOv8, and OpenCV for implementation.
 
-On Friday	GitHub Setup	Created and initialized GitHub repository.
+On Friday	Studied about YOLOv5 and YOLOv8 architectures for object detection..
 
 On Saturday	Dataset Research	Explored open-source datasets for helmet/no-helmet images.
 
