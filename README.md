@@ -1,5 +1,5 @@
 # Atomotive Helmet-Detection-using-yoloV8
-This project aims to develop an automated helmet detection system using computer vision and deep learning techniques.
+This project aims to develop an automated helmet detection system using Yolov8.
 
  Week 1 – Project Initialization & Planning
 Objectives
