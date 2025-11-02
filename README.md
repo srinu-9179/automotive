@@ -51,7 +51,7 @@ from ultralytics import YOLO
 model = YOLO('yolov8n.pt')
 
 # Run inference on sample image
-results = model.predict(source='https://ultralytics.com/images/bus.jpg', save=True)
+results = model.predict(source='https://ultralytics.com/images/biker.jpg', save=True)
 
 print("✅ Inference complete! Check /content/runs/predict for output.")
 
