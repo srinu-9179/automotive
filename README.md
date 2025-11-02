@@ -14,17 +14,17 @@ Objectives
 
 Tasks Completed:
 
-On Monday	Title Finalization	Selected project title: Helmet Detection using yolo (Automotive Theme)
+#On Monday	Title Finalization	Selected project title: Helmet Detection using yolov8 (Automotive Theme)
 
-On Tuesday	Friday	GitHub Setup	Created and initialized GitHub repository
+#On Tuesday		GitHub Setup	Created and initialized GitHub repository
 
-On Wednesday	Problem Definition	Defined scope: Detect riders and identify helmet usage for road safety.
+#On Wednesday	Problem Definition	Defined scope: Detect riders and identify helmet usage for road safety.
 
-On Thursday	Tool Selection	Finalized Python, YOLOv8, and OpenCV for implementation.
+#On Thursday	Tool Selection	Finalized Python, YOLOv8, and OpenCV for implementation.
 
-On Friday	Studied about YOLOv5 and YOLOv8 architectures for object detection..
+#On Friday	Studied about YOLOv5 and YOLOv8 architectures for object detection..
 
-On Saturday	collab setup and install Dependencies
+#On Saturday	collab setup and install Dependencies
 Step 1 — Enable GPU
 
 Menu → Runtime → Change runtime type → Hardware accelerator → GPU
@@ -56,4 +56,4 @@ results = model.predict(source='https://ultralytics.com/images/bus.jpg', save=Tr
 print("✅ Inference complete! Check /content/runs/predict for output.")
 
 
-On Sunday	Documentation	Wrote README.md with objectives and week summary.
+#On Sunday	Documentation	Wrote README.md with objectives and week summary.
