@@ -57,3 +57,7 @@ print("✅ Inference complete! Check /content/runs/predict for output.")
 
 
 #On Sunday	Documentation	Wrote README.md with objectives and week summary.
+
+week-3
+# RETRIFYING ERRORS
+
